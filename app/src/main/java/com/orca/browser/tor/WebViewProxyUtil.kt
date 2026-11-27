@@ -11,7 +11,6 @@ object WebViewProxyUtil {
 
     private val directExecutor = Executor { runnable -> runnable.run() }
 
-    @JvmOverloads
     fun applyProxy(webView: WebView? = null, host: String, port: Int) {
         if (port <= 0) return
 
