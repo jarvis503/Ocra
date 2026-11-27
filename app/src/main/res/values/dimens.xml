@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">44dp</dimen>
+    <dimen name="tab_strip_height">36dp</dimen>
+    <dimen name="address_bar_height">36dp</dimen>
+    <dimen name="address_bar_corner_radius">20dp</dimen>
+    <dimen name="tab_chip_corner_radius">12dp</dimen>
+    <dimen name="tab_card_corner_radius">12dp</dimen>
+    <dimen name="icon_size_standard">24dp</dimen>
+    <dimen name="icon_size_small">18dp</dimen>
+    <dimen name="icon_size_tiny">16dp</dimen>
+</resources>

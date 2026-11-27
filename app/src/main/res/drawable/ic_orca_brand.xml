@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Circular deep ocean emblem for home page branding -->
+    <path
+        android:fillColor="#0A1929"
+        android:strokeColor="#1E3A5F"
+        android:strokeWidth="1.5"
+        android:pathData="M54,4 A50,50 0 1,1 54,104 A50,50 0 1,1 54,4 Z" />
+
+    <!-- Subtle curved ocean horizon arcs -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeAlpha="0.14"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M18,74 Q54,67 90,74" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeAlpha="0.09"
+        android:strokeWidth="1.0"
+        android:strokeLineCap="round"
+        android:pathData="M24,81 Q54,76 84,81" />
+
+    <!-- Detailed right-facing Orca silhouette -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="1.16"
+        android:scaleY="1.16">
+
+        <path
+            android:fillColor="#000000"
+            android:strokeColor="#FFFFFF"
+            android:strokeAlpha="0.32"
+            android:strokeWidth="1.0"
+            android:strokeLineJoin="round"
+            android:pathData="M85.5,57.2 C86,59.8 80.2,63.2 71.5,64.2 C65,65 53,66.5 44.5,64.5 C38,63 34,61.8 31,62.5 C28,64 25.5,68 23.2,72.2 C24.6,67.6 26.7,63.5 28.5,61 C26.7,59 24.4,53.4 23.8,48.2 C26.9,51.8 30,55.2 33,56.5 C37.5,53.8 41.5,51.2 44.5,49.8 C44,41.3 45.3,33.2 47.6,29 C49.7,32.8 50,39.7 53,45.5 C61.6,43.7 71.2,44.1 78.5,47.6 C82.8,50 85,54 85.5,57.2 Z" />
+
+        <!-- Subtle crest sheen along melon & back -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFF"
+            android:strokeAlpha="0.22"
+            android:strokeWidth="0.8"
+            android:strokeLineCap="round"
+            android:pathData="M56,46 C64,44.8 72.5,45.4 79,48.8" />
+
+        <!-- White lower jaw, belly & sweeping flank marking -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M83.6,58.6 C81.8,61.2 76.2,63.2 70,63.8 C62.5,64.4 53,65.2 44.5,63.5 C40.5,62.6 37.5,61.2 35.8,60.2 C38.5,58 42.2,55.5 46.8,54.8 C49.8,54.4 51.5,56.2 49.2,58 C47.5,59.4 49.2,60.4 52.5,60.2 C58.5,59.8 66,59.5 72.5,59 C77,58.6 80.8,57.7 83.6,58.6 Z" />
+
+        <!-- Mouth accent line -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#1A1A1A"
+            android:strokeWidth="0.7"
+            android:strokeLineCap="round"
+            android:pathData="M83.2,58.2 Q78.5,59.4 73.5,59" />
+
+        <!-- Iconic white eye patch -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M65.8,51.8 C66.2,49.4 70.2,48.4 74.2,49.6 C74.4,51.5 71,53.2 66.8,52.8 C66.1,52.6 65.7,52.2 65.8,51.8 Z" />
+
+        <!-- Dark gray saddle patch & fin contour shading -->
+        <path
+            android:fillColor="#1A1A1A"
+            android:pathData="M40.5,53.8 C43.5,50.2 47.5,47.5 51.5,47 C50,50.5 46.5,53.5 41.2,54.5 Z" />
+
+        <path
+            android:fillColor="#1A1A1A"
+            android:pathData="M47.5,32 C48.4,36.8 49.5,41.2 51.4,45 C49.6,45.5 47.6,45.6 46.2,45.4 C46.2,40.6 46.7,35.9 47.5,32 Z" />
+
+        <!-- Pectoral flipper with subtle shading -->
+        <path
+            android:fillColor="#000000"
+            android:strokeColor="#FFFFFF"
+            android:strokeAlpha="0.24"
+            android:strokeWidth="0.7"
+            android:pathData="M67.2,62.2 C65.8,68 62.5,73.5 56.8,76.8 C54.2,74.8 55.2,68.8 58.8,63.2 C61.2,61.5 65.2,61 67.2,62.2 Z" />
+
+        <path
+            android:fillColor="#1A1A1A"
+            android:pathData="M64.2,63.8 C62.8,67.8 60.4,71.5 57.6,73.8 C57.2,70.2 58.8,66.2 61.5,63.6 Z" />
+
+    </group>
+
+</vector>

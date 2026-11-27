@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryVariant">#0A0A0A</color>
+    <color name="colorSurface">#0A0A0A</color>
+    <color name="colorCardElevated">#1A1A1A</color>
+    <color name="colorAccent">#007AFF</color>
+    <color name="colorSecondary">#007AFF</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="colorTextSecondary">#8E8E93</color>
+    <color name="colorDivider">#2C2C2E</color>
+    <color name="colorTabStrip">#111111</color>
+    <color name="colorIncognito">#9B59B6</color>
+    <color name="colorIncognitoAccent">#9B59B6</color>
+    <color name="colorIncognitoToolbar">#1A0A2E</color>
+    <color name="colorIncognitoAddressBar">#2A1A3E</color>
+    <color name="colorTor">#4CAF50</color>
+    <color name="colorTorToolbar">#0A1A0A</color>
+    <color name="colorTorAddressBar">#1A2A1A</color>
+    <color name="colorError">#FF3B30</color>
+    <color name="colorAddressBar">#1A1A1A</color>
+</resources>
